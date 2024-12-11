@@ -18,5 +18,5 @@ Notable settings:
 
 ![touch scrolling](images/touch%20scrolling.png)
 
-Touch scrolling has never worked for me or anyone I know that uses xournal++. So I diasabled it
+Touch scrolling has never worked for me or anyone I know that uses xournal++. So I disabled it
 
