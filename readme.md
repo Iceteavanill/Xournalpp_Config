@@ -10,13 +10,16 @@ If you want to try them yourself you can find the file locations [here](https://
 
 Notable settings:
 
-## toolbar setup
+## toolbars
 
-![Toolbar](images/Toolbar.png)
+horizontal toolbar:
+![Toolbar horizontal](images/toolbar%20horizontal.png)
+toolbar portrait
+![Toolbar portrait](images/toolbar%20portrait.png)
 
 ## touch scrolling
 
 ![touch scrolling](images/touch%20scrolling.png)
 
-Touch scrolling has never worked for me or anyone I know that uses xournal++. So I disabled it
+Touch scrolling has never worked for me or anyone I know that uses xournal++. So I disabled it.
 
