@@ -36,6 +36,13 @@ portrait toolbar:
 
 Touch scrolling has never worked for me or anyone I know that uses Xournal++. So I disabled it.
 
+## Page templates
+
+In the folder templates there are 2 darkmode page templates I currently use.
+You import them this way:
+
+![importing templates](images/importing%20templates.png)
+
 # Caveats
 
 I noticed the following things while using Xournal++.
